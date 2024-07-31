@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shanttoosh
-- 👀 I’m interested in Data analysis
+- 👀 I’m interested in Data analytics
 - 🌱 I’m currently learning B.E CSE
 - 📫 How to reach me Shanttoosh@gmail.com
 
