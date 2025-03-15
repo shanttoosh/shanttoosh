@@ -11,6 +11,7 @@
 🎓 **Pursuing B.E. in Computer Science**  
 📊 Passionate about **Data Analytics, Machine Learning, and AI**  
 📚 Currently expanding my knowledge in **SQL, Python, and Data Visualization**
+
 💡 Always eager to explore **new tools and technologies** in the data world!
 
 ---
@@ -82,7 +83,6 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanttoosh&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanttoosh&layout=compact&theme=radical)
 
 ---
