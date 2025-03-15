@@ -1,5 +1,5 @@
 ### Hi there! 👋 I'm **Shanttoosh**  
-#### 📊 Data Analyst | Aspiring Data Scientist  
+#### 📊 Aspiring Data Scientist  
 
 🚀 Passionate about **Data Analytics, Machine Learning, and Data Visualization**, I love transforming raw data into **meaningful insights** for data-driven decision-making.
 
