@@ -1,23 +1,50 @@
-👋 Hi, I’m Shanttoosh
-📊 Aspiring Data Scientist
-I am passionate about uncovering insights from data and transforming raw information into actionable strategies. With a strong foundation in data analytics, machine learning, and data visualization, I specialize in extracting meaningful patterns to drive informed decision-making.
+<h1 align="center">👋 Hi, I'm Shanttoosh! </h1>  
+<h3 align="center">📊 Data Analyst | Aspiring Data Scientist</h3>  
 
-🔍 Areas of Interest
-Data Analytics & Visualization – Expertise in Excel, Tableau, and Seaborn for compelling data storytelling.
-Machine Learning & Predictive Modeling – Proficient in Python (Pandas, NumPy, Scikit-learn, XGBoost) for building high-accuracy models.
-SQL & Database Management – Strong skills in data extraction, transformation, and analysis using SQL.
-Business Intelligence – Creating insightful dashboards and reports to enhance decision-making.
-🎓 Education
-B.E. in Computer Science – Developing expertise in AI, machine learning, and data analytics.
-🏆 Certifications & Achievements
-Google Data Analytics Professional Certificate
-Google Analytics Certified (Scored 92%)
-Git Certification from Great Learning
-📌 Projects
-Customer Segmentation Analysis – Applied machine learning for RFM-based customer classification.
-Fraudulent Transactions Prediction – Implemented XGBoost to enhance model accuracy.
-House Price Prediction – Achieved 0.9999 R² score using Gradient Boosting Regressor.
-Sentiment Analysis on US Airlines – Led a team to develop a model with 90% accuracy.
-📫 Let's Connect
-LinkedIn: linkedin.com/in/shanttoosh-v-470484289
-Email: Shanttoosh@gmail.com
+🚀 Passionate about **Data Analytics, Machine Learning, and Data Visualization**, I love turning raw data into **meaningful insights** to drive informed decisions.  
+
+---
+
+### 🎯 **Areas of Interest**  
+🔍 **Data Analytics & Business Intelligence** – Extracting insights using **SQL, Tableau, and Power BI**  
+📈 **Predictive Modeling & Machine Learning** – Building **regression & classification models**  
+📊 **Data Visualization** – Transforming complex data into **compelling dashboards**  
+📡 **Big Data & AI** – Exploring **data-driven decision-making**  
+
+---
+
+### ⚡ **Skills & Tools**  
+💡 **Programming:** Python, SQL, R  
+📊 **Data Analysis:** Pandas, NumPy, Scikit-learn, Statsmodels  
+📉 **Visualization:** Matplotlib, Seaborn, Tableau, Power BI  
+🛢 **Databases:** MySQL, PostgreSQL  
+📡 **Machine Learning:** Linear Regression, XGBoost, Random Forest, SVM  
+🛠 **Version Control:** Git, GitHub  
+
+---
+
+### 🏆 **Certifications & Achievements**  
+✅ **Google Data Analytics Professional Certificate**  
+✅ **Google Analytics Certified (Scored 92%)**  
+
+
+---
+
+### 🔥 **Highlighted Projects**  
+📌 **[Customer Segmentation Analysis](#)** – Machine learning-based RFM segmentation.  
+📌 **[Fraudulent Transactions Prediction](#)** – Boosted accuracy with **XGBoost**.  
+📌 **[House Price Prediction](#)** – Achieved **0.9999 R²** using Gradient Boosting.  
+📌 **[Sentiment Analysis on US Airlines](#)** – Led a team, achieving **90% accuracy**.  
+📌 **[Road Accident Data Analysis](#)** – Interactive dashboard for risk insights.  
+
+💻 Check out my projects **[here](#)**!  
+
+---
+
+### 📬 **Connect with Me**  
+🌐 **[LinkedIn](https://www.linkedin.com/in/shanttoosh-v-470484289/)**  
+📩 **Email:** Shanttoosh@gmail.com  
+
+---
+
+🔥 **Let's turn data into insights!** 🚀  
