@@ -11,7 +11,7 @@
 
 ## 🌍 About Me  
 
-🧠 **Data Science Enthusiast** | 📊 **Business Intelligence Explorer** | 💡 **AI Researcher**  
+🧠 **Data Science Enthusiast** | 📊 **Data Explorer** | 💡 **AI Researcher**  
 
 🔎 Passionate about **data-driven decision-making**  
 🎯 Skilled in **Python, SQL, Machine Learning, and Visualization**  
@@ -26,9 +26,6 @@
   </a>
   <a href="mailto:shanttoosh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <a href="https://github.com/YOUR_GITHUB_PROFILE">
     <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -47,19 +44,31 @@
 📊 **Data Science & Machine Learning**  
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557C?style=for-the-badge&logo=python&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-%233776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 📊 **Visualization & BI Tools**  
 ![Excel](https://img.shields.io/badge/Excel-%23217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-%23E37400?style=for-the-badge&logo=google-analytics&logoColor=white)  
 
+### 🗄️ **Databases**  
+![BigQuery](https://img.shields.io/badge/BigQuery-%23669DF6?style=for-the-badge&logo=google-cloud&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+
 🛠️ **Development & Version Control**  
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00?style=for-the-badge&logo=google-colab&logoColor=white) 
 ![VSCode](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+
+
 
 ---
 
@@ -67,10 +76,10 @@
 
 | 🚀 **Project** | 📝 **Description** | 🔗 **Link** |
 |---------------|-----------------|-------------|
-| 📈 **Customer Segmentation** | Clustering users based on spending behavior | [GitHub Repo](YOUR_PROJECT_LINK) |
-| 🔎 **Fraud Detection** | ML-based financial fraud detection using XGBoost | [GitHub Repo](YOUR_PROJECT_LINK) |
-| 🏠 **House Price Prediction** | Predicting property prices using ML models | [GitHub Repo](YOUR_PROJECT_LINK) |
-| ✈ **Sentiment Analysis** | Analyzing airline reviews using NLP | [GitHub Repo](YOUR_PROJECT_LINK) |
+| 📈 **Customer Segmentation** | Clustering users based on spending behavior | [GitHub Repo](https://github.com/shanttoosh/Customer_Segmentation_using_Kmeans) |
+| 🔎 **Fraud Detection** | ML-based financial fraud detection using XGBoost | [GitHub Repo](https://github.com/shanttoosh/Predicting-Fraudlent-Transactions) |
+| 🏠 **House Price Prediction** | Predicting property prices using ML models | [GitHub Repo](https://github.com/shanttoosh/OIBSIP_Data_Science_Projects/tree/main/OIBSIP_Task_3) |
+| ✈ **Sentiment Analysis** | Analyzing airline reviews using NLP | [GitHub Repo](https://github.com/shanttoosh/Sentiment_analysis_for_marketing) |
 
 ---
 
@@ -97,8 +106,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shanttoosh V&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanttoosh V&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
 ---
