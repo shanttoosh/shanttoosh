@@ -7,7 +7,6 @@
 🎓 **Pursuing B.E. in Computer Science**  
 📊 Passionate about **Data Analytics, Machine Learning, and AI**  
 📚 Currently expanding my knowledge in **SQL, Python, and Data Visualization**
-
 💡 Always eager to explore **new tools and technologies** in the data world!
 
 ---
@@ -57,11 +56,14 @@
 
 ## 📌 Certifications
 
-- 🏅 **Google Analytics Certification**
-- 🏅 **Google Data Analytics Professional Certificate**
-- 🏅 **SQL Certification (HackerRank)**
-- 🏅 **Prompt Engineering Certificate**
-- 🏅 **Git & GitHub Certificate (Great Learning)**
+## 🎓 Certifications
+
+[![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-%234285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/KZRI2FDF5ZW8)
+[![Google Analytics Certified](https://img.shields.io/badge/Google%20Analytics-%23E37400?style=for-the-badge&logo=google-analytics&logoColor=white)](https://skillshop.credential.net/40b06d26-dfb3-4afe-b20f-b95167a8f68a#acc.nvSzslQt)
+[![SQL HackerRank](https://img.shields.io/badge/SQL%20HackerRank-%232EC866?style=for-the-badge&logo=hackerank&logoColor=white)](https://www.hackerrank.com/certificates/b9575c715fa7)
+[![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%23007ACC?style=for-the-badge&logo=openai&logoColor=white)](https://courses.cognitiveclass.ai/certificates/6775bed4495040a6826c4c448ba30a88)
+[![Git Certification](https://img.shields.io/badge/Git%20Certification-%23F05032?style=for-the-badge&logo=git&logoColor=white)](https://olympus.mygreatlearning.com/courses/65405/certificate?pb_id=581)
+
 
 ---
 
