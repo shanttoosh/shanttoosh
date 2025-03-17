@@ -103,13 +103,5 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shanttoosh V&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanttoosh V&layout=compact&theme=tokyonight" height="180px"/>
-</p>
-
----
 
 🌟 *"Data is the key to unlocking tomorrow's innovations!"* 🚀  
