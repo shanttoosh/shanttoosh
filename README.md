@@ -1,96 +1,106 @@
-# Hi there! 👋 I'm **Shanttoosh** 🚀
+<h1 align="center"> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+  Hi, I'm Shanttoosh! 🚀
+</h1>
 
-### 🌟 Data Enthusiast 
-
-## 🚀 About Me
-
-🎓 **Pursuing B.E. in Computer Science**  
-📊 Passionate about **Data Analytics, Machine Learning, and AI**  
-📚 Currently expanding my knowledge in **SQL, Python, and Data Visualization**
-💡 Always eager to explore **new tools and technologies** in the data world!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=500&lines=Data+Analyst+%7C+AI+Explorer+%7C+ML+Enthusiast;Transforming+Data+into+Insights;Always+Learning+%F0%9F%92%AA" />
+</p>
 
 ---
 
-## 💼 Connect With Me
+## 🌍 About Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shanttoosh-v-470484289/)  
-[![Gmail](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:Shanttoosh@gmail.com)
+🧠 **Data Science Enthusiast** | 📊 **Business Intelligence Explorer** | 💡 **AI Researcher**  
 
----
-
-## 🔥 Skills & Technologies
-
-### 🖥️ Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 📚 Libraries & Frameworks
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![MS Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![MS PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Google Analytics 4](https://img.shields.io/badge/Google%20Analytics%204-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### 🗄️ Databases
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
----
-
-
-## 🎓 Certifications
-
-[![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-%234285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/KZRI2FDF5ZW8)
-[![Google Analytics Certified](https://img.shields.io/badge/Google%20Analytics-%23E37400?style=for-the-badge&logo=google-analytics&logoColor=white)](https://skillshop.credential.net/40b06d26-dfb3-4afe-b20f-b95167a8f68a#acc.nvSzslQt)
-[![SQL HackerRank](https://img.shields.io/badge/SQL%20HackerRank-%232EC866?style=for-the-badge&logo=hackerank&logoColor=white)](https://www.hackerrank.com/certificates/b9575c715fa7)
-[![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%23007ACC?style=for-the-badge&logo=openai&logoColor=white)](https://courses.cognitiveclass.ai/certificates/6775bed4495040a6826c4c448ba30a88)
-[![Git Certification](https://img.shields.io/badge/Git%20Certification-%23F05032?style=for-the-badge&logo=git&logoColor=white)](https://olympus.mygreatlearning.com/courses/65405/certificate?pb_id=581)
-
+🔎 Passionate about **data-driven decision-making**  
+🎯 Skilled in **Python, SQL, Machine Learning, and Visualization**  
+💬 Always open for **tech discussions, collaborations, and knowledge sharing!**  
 
 ---
 
-## 📊 Projects
-
-🔹 **Customer Segmentation Using RFM Analysis**  
-🔹 **Fraudulent Transaction Prediction using XGBoost**  
-🔹 **Sentiment Analysis on US Airline Tweets (90% Accuracy)**  
-🔹 **Road Accident Data Analysis (Excel Dashboard)**  
-🔹 **House Price Prediction using Gradient Boosting (R²: 0.9999)**
-
----
-
-## 🔥 Areas of Interest
-
-📌 Data Analytics & Visualization  
-📌 Machine Learning & AI  
-📌 Business Intelligence  
-📌 Statistical Analysis  
-📌 Predictive Modeling  
-📌 Data Storytelling
+## 🔗 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/shanttoosh-v-470484289/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shanttoosh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_PROFILE">
+    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Tech Stack  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanttoosh&layout=compact&theme=radical)
+🎯 **Languages & Frameworks**  
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+
+📊 **Data Science & Machine Learning**  
+![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+
+📊 **Visualization & BI Tools**  
+![Excel](https://img.shields.io/badge/Excel-%23217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-%23E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-%23E37400?style=for-the-badge&logo=google-analytics&logoColor=white)  
+
+🛠️ **Development & Version Control**  
+![VSCode](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
 ---
 
-🚀 **Let's Connect & Build Something Amazing!** 🚀
+## 📊 Featured Projects  
+
+| 🚀 **Project** | 📝 **Description** | 🔗 **Link** |
+|---------------|-----------------|-------------|
+| 📈 **Customer Segmentation** | Clustering users based on spending behavior | [GitHub Repo](YOUR_PROJECT_LINK) |
+| 🔎 **Fraud Detection** | ML-based financial fraud detection using XGBoost | [GitHub Repo](YOUR_PROJECT_LINK) |
+| 🏠 **House Price Prediction** | Predicting property prices using ML models | [GitHub Repo](YOUR_PROJECT_LINK) |
+| ✈ **Sentiment Analysis** | Analyzing airline reviews using NLP | [GitHub Repo](YOUR_PROJECT_LINK) |
+
+---
+
+## 🎓 Certifications  
+
+[![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-%234285F4?style=for-the-badge&logo=google&logoColor=white)](YOUR_CERTIFICATE_LINK)  
+[![Google Analytics](https://img.shields.io/badge/Google%20Analytics-%23E37400?style=for-the-badge&logo=google-analytics&logoColor=white)](YOUR_CERTIFICATE_LINK)  
+[![SQL HackerRank](https://img.shields.io/badge/SQL%20HackerRank-%232EC866?style=for-the-badge&logo=hackerank&logoColor=white)](YOUR_CERTIFICATE_LINK)  
+[![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%23007ACC?style=for-the-badge&logo=openai&logoColor=white)](YOUR_CERTIFICATE_LINK)  
+[![Git Certification](https://img.shields.io/badge/Git%20Certification-%23F05032?style=for-the-badge&logo=git&logoColor=white)](YOUR_CERTIFICATE_LINK)  
+
+---
+
+## 🎯 My Interests  
+
+🎨 **Data Visualization**  
+🤖 **Machine Learning & AI**  
+📈 **Business Intelligence**  
+🔮 **Predictive Analytics**  
+💬 **NLP & Sentiment Analysis**  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="180px"/>
+</p>
+
+---
+
+🌟 *"Data is the key to unlocking tomorrow's innovations!"* 🚀  
