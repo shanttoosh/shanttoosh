@@ -95,11 +95,11 @@ Developed ECG signal preprocessing pipelines with noise filtering, heartbeat seg
 
 | 🚀 **Project** | 📝 **Description** | 🔗 **Link** |
 |---------------|-----------------|-------------|
-| 🤖 **AI SQL Assistant** | NL2SQL agent with hybrid routing, semantic caching & role-aware analytics (FastAPI + LangChain + PostgreSQL) | [GitHub Repo](https://github.com/shanttoosh) |
-| 📄 **Legal Document Analyzer** | OCR + NLP pipeline with RAG-based compliance verification using LangChain, FAISS, and OpenCV | [GitHub Repo](https://github.com/shanttoosh) |
-| 📈 **Customer Segmentation** | Clustering users based on spending behavior using K-Means | [GitHub Repo](https://github.com/shanttoosh/Customer_Segmentation_using_Kmeans) |
-| 🔎 **Fraud Detection** | ML-based financial fraud detection using XGBoost | [GitHub Repo](https://github.com/shanttoosh/Predicting-Fraudlent-Transactions) |
-| ✈️ **Sentiment Analysis** | Analyzing airline reviews using NLP | [GitHub Repo](https://github.com/shanttoosh/Sentiment_analysis_for_marketing) |
+| 🤖 **NL2SQL Agent** | Production AI SQL assistant with hybrid routing, LangGraph multi-agent reasoning, semantic caching & role-aware analytics. Stack: FastAPI · PostgreSQL · TypeScript · Docker | [GitHub Repo](https://github.com/shanttoosh/sql_agents) |
+| ⚙️ **n8n Engagement Pipeline** | 7-pipeline AI prospecting bot — scrape, score leads, auto-follow, generate personalised DMs & multi-step follow-ups with Groq Llama 3. Stack: n8n · Apify · Groq · Google Sheets · Docker | [GitHub Repo](https://github.com/shanttoosh/n8n-engagement-pipeline) |
+| 🛒 **Shopify AI Analytics** | Natural language analytics for Shopify stores — 6-step agentic workflow converts questions into ShopifyQL and business insights. Stack: Node.js · FastAPI · Google Gemini · Docker | [GitHub Repo](https://github.com/shanttoosh/shopify-ai-analytics) |
+| 📄 **Lease Document Chat System** | RAG-based PDF chat with structured extraction of 25+ lease fields and source-cited Q&A. Stack: Python · ChromaDB · sentence-transformers · Gemini | [GitHub Repo](https://github.com/shanttoosh/AI-Powered-Lease-Document-Chat-System) |
+| ⚖️ **Legal Document Analyzer** | Document analysis UI with NLP-powered compliance verification and named entity recognition. Stack: TypeScript · React · Supabase · Tailwind | [GitHub Repo](https://github.com/shanttoosh/Legal-Document-Analyzer) |
 
 ---
 
@@ -115,11 +115,11 @@ Developed ECG signal preprocessing pipelines with noise filtering, heartbeat seg
 
 ## 🎯 My Interests  
 
-🤖 **Multi-Agent LLM Systems**  
-🔍 **NL2SQL & Semantic Retrieval**  
-⚙️ **Backend & API Engineering**  
-🧠 **Machine Learning & Deep Learning**  
-💬 **NLP & Conversational AI**  
+🤖 **Multi-Agent LLM Systems & Agentic Workflows**  
+🔍 **NL2SQL, RAG & Semantic Retrieval**  
+⚙️ **Backend Engineering & REST API Design**  
+🔗 **AI Automation Pipelines (n8n, LangGraph)**  
+💬 **NLP, Document Intelligence & Chat Systems**  
 
 ---
 
