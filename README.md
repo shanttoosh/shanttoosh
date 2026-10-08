@@ -9,6 +9,10 @@
 <br/>
 
 <p>
+  <a href="https://shanttoosh-dev.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/shanttoosh-v-470484289/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -22,6 +26,13 @@
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Chennai%2C%20India-%23FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
+
+<p>
+  <b>Live now:</b>
+  <a href="https://thesis-research-nu.vercel.app">Thesis</a> ·
+  <a href="https://qms-copilot-two.vercel.app">AI Complaint Copilot</a> ·
+  <a href="https://vaultmind-nine.vercel.app">VaultMind</a>
 </p>
 
 <br/>
@@ -39,7 +50,7 @@ class Shanttoosh:
     education   = "B.E. Computer Science — Meenakshi College of Engineering (2021–2025)"
     focus       = ["NL2SQL", "Multi-Agent LLMs", "RAG Pipelines", "AI Automation"]
     stack       = ["Python", "FastAPI", "LangGraph", "LangChain", "PostgreSQL", "TypeScript"]
-    currently   = "Building production AI for Krion 6D — BIM & digital twin construction platform"
+    currently   = "Building AI products for the construction industry at Krion Consulting"
     open_to     = "AI collaborations, challenging problems, and knowledge sharing"
     fun_fact    = "I build AI that doesn't just respond — it reasons, retrieves, and delivers 🚀"
 ```
@@ -56,21 +67,23 @@ class Shanttoosh:
 <tr>
 <td width="11%" align="center" valign="top">
 <br/>
-<img src="https://krionconsulting.com/wp-content/uploads/2023/04/krion-logo.png" width="68" height="68" style="border-radius:10px; object-fit:contain;" />
+<a href="https://krionconsulting.com">
+<img src="https://img.shields.io/badge/Krion-0EA5E9?style=for-the-badge&logoColor=white" />
+</a>
 <br/><br/>
 <img src="https://img.shields.io/badge/Current-22C55E?style=flat-square" />
 </td>
 <td width="89%" valign="top">
 
 ###  [Krion Consulting Pvt Ltd](https://krionconsulting.com/) — AI Developer
-** Dec 2025 – Present &nbsp;|&nbsp; 📍 Chennai, India**
+**Dec 2025 – Present &nbsp;|&nbsp; 📍 Chennai, India**
 
-> Engineered a production NL2SQL AI assistant for **Krion 6D** — a BIM-based construction project management platform with digital twin capabilities.
+> Building AI products for the construction industry: natural-language analytics, multi-agent systems and computer vision for drawings.
 
--  Designed a **hybrid AI system** combining deterministic query routing with LangChain multi-agent reasoning across a 95-table PostgreSQL schema
--  Achieved **20% query latency reduction** via semantic caching, validation loops, and hybrid routing optimisation
--  Implemented **schema-aware NL2SQL generation** with role-aware access control and vector-based context retrieval
--  Delivered end-to-end full-stack solution: FastAPI backend · NestJS APIs · React frontend · TypeScript · Docker Compose
+-  Engineered an **AI-powered SQL assistant**: hybrid deterministic routing with LangChain multi-agent reasoning, schema-aware NL2SQL, validation loops and semantic caching, with **20% lower average query latency**
+-  Built a **multi-agent construction intelligence system**: an orchestrator routing questions across 10+ specialised agents, using Anthropic, OpenAI and Gemini models
+-  Engineered an **AI quantity take-off system** for construction drawings: computer-vision pipelines for scale detection, wall and room reconstruction, symbol recognition and BOQ generation
+-  Full-stack delivery: FastAPI services · NestJS · Angular and React · PostgreSQL and Redis · Docker
 
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
@@ -102,9 +115,9 @@ class Shanttoosh:
 <td width="89%" valign="top">
 
 ###  [iOPEX Technologies](https://www.iopex.com/) — AI/ML Intern
-** Jul 2025 – Oct 2025 &nbsp;|&nbsp; 📍 Chennai, India**
+**Jul 2025 – Oct 2025 &nbsp;|&nbsp; 📍 Chennai, India**
 
-> iOPEX is a global "Intelligence as a Service" company with **1,000+ AI agents in production**, serving **72+ enterprise clients** including Fortune 100 companies (Uber, AT&T, Samsung, T-Mobile, Tesla).
+> Worked on RAG pipelines, embedding workflows and document processing systems for enterprise applications.
 
 -  **Led a 6-member team** architecting an end-to-end chunking optimizer supporting **5 chunking strategies** and **4 execution modes**, improving retrieval accuracy across diverse document types
 -  Built **high-throughput embeddings pipeline** (~60s per 100K rows) using 6-worker parallelism with sentence-transformers
@@ -140,7 +153,7 @@ class Shanttoosh:
 <td width="89%" valign="top">
 
 ###  [Velozity Global Solutions](https://www.velozityglobal.com/) — Machine Learning Intern
-** Feb 2025 – Apr 2025 &nbsp;|&nbsp; 📍 Chennai, India**
+**Feb 2025 – Apr 2025 &nbsp;|&nbsp; 📍 Chennai, India**
 
 > Applied machine learning for biomedical signal processing and ECG analysis.
 
@@ -173,7 +186,7 @@ class Shanttoosh:
 <td width="11%" align="center" valign="top">
 <br/>
 <a href="https://mce.edu.in">
-<img src="https://mce.edu.in/images/mce-logo.png" width="68" height="68" style="border-radius:10px; object-fit:contain;" />
+<img src="https://img.shields.io/badge/MCE-6366F1?style=for-the-badge&logoColor=white" />
 </a>
 <br/><br/>
 <img src="https://img.shields.io/badge/Graduated-6366F1?style=flat-square" />
@@ -181,7 +194,7 @@ class Shanttoosh:
 <td width="89%" valign="top">
 
 ### 🎓 [Meenakshi College of Engineering](https://mce.edu.in/) — B.E. Computer Science
-** Oct 2021 – May 2025 &nbsp;|&nbsp;  Chennai, India &nbsp;|&nbsp;  GPA: 7.62 / 10**
+**Oct 2021 – May 2025 &nbsp;|&nbsp;  Chennai, India &nbsp;|&nbsp;  GPA: 7.62 / 10**
 
 > Anna University affiliated institution. Strong foundations in engineering and applied computer science.
 
@@ -213,20 +226,74 @@ class Shanttoosh:
 <tr>
 <td width="50%" valign="top">
 
-###  [NL2SQL Agent](https://github.com/shanttoosh/sql_agents)
+###  [Thesis](https://github.com/shanttoosh/thesis)
 
-![](https://img.shields.io/badge/Production-22C55E?style=flat-square) ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) ![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Live-22C55E?style=flat-square) ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-> Production-grade natural language to SQL agent for construction project analytics
+> AI trading research assistant
 
-**What it does:** Converts natural language questions into accurate SQL over a 95-table schema with role-aware access control and semantic caching.
+**What it does:** Turns a vague market question into a precisely specified, testable experiment, runs it against historical data, and keeps what the data shows apart from what the system concludes.
 
-- 8-node LangGraph pipeline with DRGC architecture
-- Hybrid routing: deterministic rules + LLM fallback
-- Vector-based schema retrieval with pgvector
-- **20% latency reduction** via semantic caching
+- Next.js and React frontend, Fastify backend, Zod schemas shared by both
+- PostgreSQL with Drizzle
+- Pluggable LLM port: Claude, Groq gpt-oss-120b or an offline stub
+- **[▶ Open live](https://thesis-research-nu.vercel.app)**
 
 </td>
+<td width="50%" valign="top">
+
+###  [Agentic AI RAG Chatbot](https://github.com/shanttoosh/agentic-ai-rag-chatbot)
+
+![](https://img.shields.io/badge/RAG-EC4899?style=flat-square) ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) ![](https://img.shields.io/badge/Pinecone-000000?style=flat-square) ![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+> Grounded answers from one document
+
+**What it does:** A document-grounded assistant that answers only from a 60-page Agentic AI eBook, verifies every claim against the retrieved chunks, and says so when the book does not cover a question.
+
+- LangGraph StateGraph with typed state and conditional edges
+- Pinecone serverless index with hosted embeddings
+- Groq gpt-oss-120b answers; gpt-oss-20b checks every claim
+- 135 offline pytest tests, mypy --strict and GitHub Actions
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+###  [AI Complaint Management Copilot](https://github.com/shanttoosh/ai-complaint-management-system)
+
+![](https://img.shields.io/badge/Live-22C55E?style=flat-square) ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+> Conversational copilot for a pharma QMS
+
+**What it does:** A QA officer pastes an email or attaches a document, and the copilot fills a structured customer complaint record, then follows corrections given in plain language.
+
+- AI risk classification with a 0–100 score, severity and priority
+- Completeness checks with follow-up questions, and duplicate detection
+- Root cause and CAPA recommendations tied to manufacturing stages
+- **[▶ Open live](https://qms-copilot-two.vercel.app)**
+
+</td>
+<td width="50%" valign="top">
+
+###  [VaultMind](https://github.com/shanttoosh/Obsidian_vault_RAG_knowledge_assistant)
+
+![](https://img.shields.io/badge/Live-22C55E?style=flat-square) ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![](https://img.shields.io/badge/Chroma-FF6F00?style=flat-square) ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+> RAG assistant for an Obsidian vault
+
+**What it does:** Ask questions in plain language and get answers drawn strictly from your own notes, with wikilink citations to every source, or an explicit "not found in your vault".
+
+- Hybrid search: vector and lexical indexes fused with RRF
+- Cited answers with a grounding grade
+- Agentic deep research across linked notes, with human-approved write-back
+- **[▶ Open live](https://vaultmind-nine.vercel.app)**
+
+</td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ###  [n8n Engagement Pipeline](https://github.com/shanttoosh/n8n-engagement-pipeline)
@@ -243,9 +310,6 @@ class Shanttoosh:
 - Randomised delays and rate-limit safety design
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ###  [Shopify AI Analytics](https://github.com/shanttoosh/shopify-ai-analytics)
@@ -262,6 +326,9 @@ class Shanttoosh:
 - Docker Compose for full local deployment
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ###  [Lease Document Chat System](https://github.com/shanttoosh/AI-Powered-Lease-Document-Chat-System)
@@ -278,40 +345,14 @@ class Shanttoosh:
 - CLI: `--extract-only` mode or full interactive chat
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
-###  [Legal Document Analyzer](https://github.com/shanttoosh/Legal-Document-Analyzer)
+###  More on GitHub
 
-![](https://img.shields.io/badge/Full--Stack-06B6D4?style=flat-square) ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-> Document intelligence UI with compliance verification
-
-**What it does:** Frontend application for analyzing and validating legal documents with NLP-powered named entity recognition, template matching, and RAG-based compliance checking.
-
-- React + TypeScript SPA with real-time analysis
-- Supabase backend for auth and document storage
-- Tailwind CSS + shadcn/ui component library
-- Deployed with live preview via Lovable
-
-</td>
-<td width="50%" valign="top">
-
-###  [Classic ML Projects](https://github.com/shanttoosh/Customer_Segmentation_using_Kmeans)
-
-![](https://img.shields.io/badge/ML-F59E0B?style=flat-square) ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square) ![](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-> Core data science and ML foundations
-
-A collection of production-clean ML projects:
-- **Customer Segmentation** — K-Means on spending behaviour
-- **Fraud Detection** — XGBoost on imbalanced transaction data
-- **Sentiment Analysis** — Airline reviews NLP (VADER + TF-IDF)
-- **House Price Prediction** — Ensemble regression models
-
-Each includes EDA, feature engineering, evaluation, and clean visualisations.
+- **[Voice-Controlled AI Agent](https://github.com/shanttoosh/voice-controlled-ai-agent):** transcribes a spoken command, picks one of four tools and keeps file writes in a sandbox
+- **[Lead Pipeline Automation](https://github.com/shanttoosh/Lead-Pipeline-Automation):** pulls local businesses from Google Maps, checks their site speed and ad tracking, and exports leads
+- **[LLM Evaluation Pipeline](https://github.com/shanttoosh/llm-response-evaluator):** scores chatbot replies for relevance and hallucination with an LLM judge
+- **Classic ML:** [customer segmentation](https://github.com/shanttoosh/Customer_Segmentation_using_Kmeans), [churn prediction](https://github.com/shanttoosh/customer_churn_prediction) and [fraud detection](https://github.com/shanttoosh/Predicting-Fraudlent-Transactions) notebooks
 
 </td>
 </tr>
@@ -393,17 +434,9 @@ Each includes EDA, feature engineering, evaluation, and clean visualisations.
 
 <div align="center">
 
-[![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)](YOUR_CERTIFICATE_LINK)
+[![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/KZRI2FDF5ZW8)
 &nbsp;
-[![Google Analytics](https://img.shields.io/badge/Google%20Analytics%20Certified%20(92%25)-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)](YOUR_CERTIFICATE_LINK)
-
-<br/>
-
-[![SQL HackerRank](https://img.shields.io/badge/SQL%20HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](YOUR_CERTIFICATE_LINK)
-&nbsp;
-[![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-007ACC?style=for-the-badge&logo=openai&logoColor=white)](YOUR_CERTIFICATE_LINK)
-&nbsp;
-[![Git Certification](https://img.shields.io/badge/Git%20Certification-F05032?style=for-the-badge&logo=git&logoColor=white)](YOUR_CERTIFICATE_LINK)
+[![Google Analytics](https://img.shields.io/badge/Google%20Analytics%20Certified%20(92%25)-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)](https://skillshop.credential.net/40b06d26-dfb3-4afe-b20f-b95167a8f68a)
 
 </div>
 
@@ -432,7 +465,7 @@ Each includes EDA, feature engineering, evaluation, and clean visualisations.
 ##  Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shanttoosh&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true" width="95%" />
+<img src="./assets/contributions.svg" width="95%" alt="GitHub contribution graph for the last 12 months, refreshed daily" />
 </div>
 
 <br/>
