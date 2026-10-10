@@ -1,11 +1,11 @@
 {
  "user": "shanttoosh",
  "from": "2025-10-05",
- "to": "2026-10-09",
+ "to": "2026-10-10",
  "total": 117,
  "activeDays": 48,
  "longestStreak": 5,
- "currentStreak": 3,
+ "currentStreak": 0,
  "bestDay": {
   "date": "2026-04-07",
   "count": 12
@@ -2599,6 +2599,13 @@
    "level": 0,
    "week": 52,
    "weekday": 5,
+   "count": 0
+  },
+  {
+   "date": "2026-10-10",
+   "level": 0,
+   "week": 52,
+   "weekday": 6,
    "count": 0
   }
  ]
